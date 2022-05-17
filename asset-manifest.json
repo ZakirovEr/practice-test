@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/practice-test/static/css/main.073c9b0a.css",
-    "main.js": "/practice-test/static/js/main.0b039dd2.js",
-    "static/js/787.f3d7924f.chunk.js": "/practice-test/static/js/787.f3d7924f.chunk.js",
-    "static/media/logo.svg": "/practice-test/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/practice-test/index.html",
-    "main.073c9b0a.css.map": "/practice-test/static/css/main.073c9b0a.css.map",
-    "main.0b039dd2.js.map": "/practice-test/static/js/main.0b039dd2.js.map",
-    "787.f3d7924f.chunk.js.map": "/practice-test/static/js/787.f3d7924f.chunk.js.map"
+    "main.css": "/deploy/static/css/main.073c9b0a.css",
+    "main.js": "/deploy/static/js/main.eda78564.js",
+    "static/js/787.f3d7924f.chunk.js": "/deploy/static/js/787.f3d7924f.chunk.js",
+    "static/media/logo.svg": "/deploy/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/deploy/index.html",
+    "main.073c9b0a.css.map": "/deploy/static/css/main.073c9b0a.css.map",
+    "main.eda78564.js.map": "/deploy/static/js/main.eda78564.js.map",
+    "787.f3d7924f.chunk.js.map": "/deploy/static/js/787.f3d7924f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.0b039dd2.js"
+    "static/js/main.eda78564.js"
   ]
 }
